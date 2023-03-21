@@ -8,7 +8,7 @@
 ### What am I doing?
 
 ### I'm
-- working as a Java Backend Developer at Nish 
+- working as a Java Backend Developer at ICTerra
 - working on Eclipse
 - currently learning Kotlin & Android Studio
 
